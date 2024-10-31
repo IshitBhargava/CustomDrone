@@ -17,5 +17,7 @@ Build your own drone!
   1x LiPo charger with Balance Lead
 </pre>
 
-jrjrj<br>
-w
+**Links:**
+
+Brushless motor: https://amzn.in/d/icS1Htj <br>
+ESCs: https://amzn.in/d/ilVgEUj <br>
