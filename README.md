@@ -21,3 +21,10 @@ Build your own drone!
 
 Brushless motor: https://amzn.in/d/icS1Htj <br>
 ESCs: https://amzn.in/d/ilVgEUj <br>
+KK2.1.5 Flight Controller: https://amzn.in/d/3aqOYTU <br>
+Flysky Transciever: https://amzn.in/d/4om3MOa <br>
+Drone frame: https://amzn.in/d/3s2cTwd <br>
+1045 Propellers: https://amzn.in/d/bxaCkSY <br>
+Jumper Wires: https://amzn.in/d/9LhlB3T <br>
+XT30: https://amzn.in/d/06gC34H <br>
+XT60: https://amzn.in/d/bsH4M7H <br>
