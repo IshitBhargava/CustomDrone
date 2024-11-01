@@ -34,3 +34,24 @@ LiPo Charger: https://amzn.in/d/jkwzLXy <br>
 
 ___________________________________________________________________________________________
 
+
+# Connections:
+<pre>First, assemble the drone frame, do not put the upper cover.
+Second, connect the positve terminals of all ESCs to the power distribution board. 
+Third, connect the negative terminals of all ESCs to the power distribution board.
+Fourth, connect the battery plug.
+Fifth, screw down the upper cover.
+Sixth, attach all the ESCs using zip ties.
+Seventh, add the brushless motor, use the screws. Do not add the propellers.
+Eighth, add the flight controller with the arrow facing forward.
+Ninth, connect the ESCs signal wires to the out1-4 of the flight controller.
+Tenth, use tape to attach the Reciever to the drone frame, beside the controller.
+Eleventh, connect the channels of the Reciever to the flight controller.
+Twelfth, connect the buzzer.
+Thirteenth, connect the Battery positive and negative to the 'Batt' terminals of the flight controller.
+Fourteenth, connect the jumper given the reciever to the 'Bat' terminals.
+Fifteenth, power on the drone using the battery. After this, turn on the reciever while pressing the binding button.
+Sixteenth, set up the flight controller using pupolar tutorials from youtube. (It is easier to do with a video guide)</pre>
+
+______________________________________________________________________________________________________
+
