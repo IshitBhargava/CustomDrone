@@ -28,3 +28,9 @@ Drone frame: https://amzn.in/d/3s2cTwd <br>
 Jumper Wires: https://amzn.in/d/9LhlB3T <br>
 XT30: https://amzn.in/d/06gC34H <br>
 XT60: https://amzn.in/d/bsH4M7H <br>
+XT90: https://amzn.in/d/1HodtDA <br>
+LiPo Battery: https://amzn.in/d/7jdMtqg <br>
+LiPo Charger: https://amzn.in/d/jkwzLXy <br>
+
+___________________________________________________________________________________________
+
